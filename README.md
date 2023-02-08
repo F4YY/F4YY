@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F4YY&layout=compact&show=typescript,javascript,css,scss,html&theme=tokyonight)
 
 <a href="https://www.linkedin.com/in/rikiwendri/">
-   <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" background-color='white' />
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
