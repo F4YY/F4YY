@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ![Riki's GitHub stats](https://github-readme-stats.vercel.app/api?username=F4YY&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F4YY&layout=compact&show=typescript,javascript,css,scss,html&theme=tokyonight)
+
+<a href="https://www.linkedin.com/in/rikiwendri/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
