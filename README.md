@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F4YY&layout=compact&show=typescript,javascript,css,scss,html&theme=tokyonight)
 
 <a href="https://www.linkedin.com/in/rikiwendri/">
-   <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" backgroundColor='white' />
+   <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" background-color='white' />
 </a>
